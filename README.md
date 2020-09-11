@@ -7,7 +7,7 @@ I am Fran, a 22 year old computer science graduate.
 - 💼 Working as researcher in the area of big data, and fullstack developer at BISITE research group.
 - 🌱 Currently deepening my knowledge of Apache Kafka and starting in the world of data science.
 
-## My tech stack
+## 🛠 My tech stack
 - 🌐: Vue.js & Vuetify & node.js & TypeScript
 - 💻: Python & Flask | Java | Apache Kafka
 - 🛢: MongoDB | Postgres | MySQL | Neo4J
