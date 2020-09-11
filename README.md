@@ -8,9 +8,9 @@ I am Fran, a 22 year old computer science graduate.
 - 🌱 Currently deepening my knowledge of Apache Kafka and starting in the world of data science.
 
 ## 🛠 My tech stack
-- 🌐: Vue.js & Vuetify & node.js & TypeScript
-- 💻: Python & Flask | Java | Apache Kafka
-- 🛢: MongoDB | Postgres | MySQL | Neo4J
+- 🌐: <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> and Vuetify
+- 💻: <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> and Apache Kafka
+- 🛢: <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> and Neo4J
 - 🔧: Git & GitHub Actions & pm2
 
 ## 📫 How to contact me
