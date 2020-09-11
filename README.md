@@ -11,7 +11,7 @@ I am Fran, a 22 year old computer science graduate.
 - 🌐: Vue.js & Vuetify & node.js & TypeScript
 - 💻: Python & Flask | Java | Apache Kafka
 - 🛢: MongoDB | Postgres | MySQL | Neo4J
-- 🔧: Git & GitHub Actions
+- 🔧: Git & GitHub Actions & pm2
 
 ## 📫 How to contact me
 
