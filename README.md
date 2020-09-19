@@ -1,6 +1,7 @@
 # Hey there! I'm GandalFran
 
-I am Fran, a 22 year old computer science graduate.
+I am Fran, a 22 year old computer science graduate. My interests include the development of Backend, Data Science and Big Data among
+others.
 
 ## 🧙🏻‍♂️ About Me
 - 📚 Studying a computer science master's degree at the University of Salamanca.
@@ -13,9 +14,22 @@ I am Fran, a 22 year old computer science graduate.
 - 🛢: <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/Neo4J-%23008CC1.svg?&style=for-the-badge&logo=Neo4j&logoColor=white" />
 - 🔧: <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
 
-## 📫 How to contact me
+## 🎯 Personal projects
+For several years I have developed various personal projects, some in my free time and others in hackathons, or as free themed class assignments. However, the most remarkable ones are some of the following:
 
-<p>
+- **NovaTrends**: Final degree project, which consisting in a distributed system based on microservices to extract information from news for posterior visualization. 
+Based on a web application developed with MEVN stack, together with an Python, Celery and Apahce Kafka based  ETL  (where data extraction and processing is done).
+<p align="center">
+  <img width="460" height="300" src="https://github.com/GandalFran/GandalFran/blob/master/novatrends_architecture.png">
+</p>
+
+- **Web based torrent client**: Web torrent client for the BitTorrent P2P network, which allows you to publish and download files through a torrent network, using magnet links and torrent files.
+
+## 📫 How to contact me
+<p align="center">
+ <a href="https://github.com/GandalFran/GandalFran/raw/master/resume.pdf"> 📄⬇ Download my resume  </a>
+ </p>
+<p align="center">
 <a href="https://www.linkedin.com/in/franpintosantos/?locale=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:franpintosantos@usal.es"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+
