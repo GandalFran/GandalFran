@@ -17,8 +17,8 @@ others.
 ## 🎯 Personal projects
 For several years I have developed various personal projects, some in my free time and others in hackathons, or as free themed class assignments. However, the most remarkable ones are some of the following:
 
-- **NovaTrends**: Final degree project, which consisting in a distributed system based on microservices to extract information from news for posterior visualization. 
-Based on a web application developed with MEVN stack, together with an Python, Celery and Apahce Kafka based  ETL  (where data extraction and processing is done).
+- **NovaTrends**: Final degree project, consisting in a distributed system based on microservices to extract information from news items, for the posterior visualization. 
+Based on a web application developed with MEVN stack, together with a Python, Celery and Apahce Kafka based  ETL  (where data extraction and processing is done).
 <p align="center">
   <img width="460" height="300" src="https://github.com/GandalFran/GandalFran/blob/master/novatrends_architecture.png">
 </p>
