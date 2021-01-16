@@ -25,6 +25,11 @@ Based on a web application developed with MEVN stack, together with a Python, Ce
 
 - **Web based torrent client**: Web torrent client for the BitTorrent P2P network, which allows you to publish and download files through a torrent network, using magnet links and torrent files.
 
+- **Twico**: It consists in a set of subsystems to aggregate information from newsitems, Twitter and OpenData sources, for the creation of a dashboard to serve a summary of the COVID pandemic.
+<p align="center">
+  <img width="480" height="180" src="https://github.com/GandalFran/TwiCo/blob/master/soa-web-app/vue-web/public/img/architecture.png">
+</p>
+
 ## 🚀 Some stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandalfran&layout=compact&hide=Ada,Makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
   ![GandalFran's github stats](https://github-readme-stats.vercel.app/api?username=gandalfran&count_private=true)
