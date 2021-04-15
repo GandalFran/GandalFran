@@ -1,4 +1,4 @@
-# Hey there! I'm GandalFran
+# Hey there! I'm Fran
 
 I am Fran, a 22 year old computer science graduate. My interests include the development of Backend, Data Science and Big Data among
 others.
