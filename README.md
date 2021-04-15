@@ -5,8 +5,8 @@ others.
 
 ## 🧙🏻‍♂️ About Me
 - 📚 Studying a computer science master's degree at the University of Salamanca.
-- 💼 Working as researcher in the area of big data, and fullstack developer at BISITE research group.
-- 🌱 Currently deepening my knowledge of Apache Kafka and starting in the world of data science.
+- 💼 Working as researcher in the area of Big Data, and Fullstack developer at BISITE research group.
+- 🌱 Currently deepening my knowledge of Apache Kafka, and learning about data extraction techniques.
 
 ## 🛠 My tech stack
 - 🌐: <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /><img src="https://img.shields.io/badge/vuetify-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> 
