@@ -37,8 +37,12 @@ Based on a web application developed with MEVN stack, together with a Python, Ce
 </p>
 
 ## 🚀 Some stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandalfran&layout=compact&hide=Ada,Makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-  ![GandalFran's github stats](https://github-readme-stats.vercel.app/api?username=gandalfran&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gandalfran&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandalfran&layout=compact&hide=Ada,Makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gandalfran)
+
+
 
 
 ## 📫 How to contact me
