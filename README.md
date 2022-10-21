@@ -38,10 +38,7 @@ Based on a web application developed with MEVN stack, together with a Python, Ce
 
 - **DeepTrends**: Final master thesis, consisting in an event-driven mircoserviced oriented distributed system to extract textual information from multiple sources (such as social media and news items), for performing NLP analysis and visualize the results in real-time. The most important system´s feature is the architectural design. As a result of it, it has been obtained a scalable, maintainable, flexible and extensible system, which can evolve and incorporate new features easily.
 <p align="center">
-  <img width="480" height="180" src="https://github.com/GandalFran/TwiCo/blob/master/soa-web-app/vue-web/public/img/deeptrends_architecture.svg">
-</p>
-<p align="center">
-  <img width="480" height="180" src="https://github.com/GandalFran/TwiCo/blob/master/soa-web-app/vue-web/public/img/deeptrends_topics_architecture.svg">
+  <img src="https://github.com/GandalFran/GandalFran/raw/master/deeptrends_topic_architecture.svg">
 </p>
 
 ## 🚀 Some stats
