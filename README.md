@@ -9,8 +9,8 @@ My coding musts are coffe and:
 
 
 ## 🧙🏻‍♂️ About Me
-- 📚 Studying a computer science master's degree at the University of Salamanca.
-- 💼 Working as researcher in the area of Big Data, and Fullstack developer at BISITE research group.
+- 📚 Studying a computer science PhD at the University of Salamanca.
+- 💼 Working as researcher in the area of Big Data, and Fullstack developer at BISITE research group. And as a Lecturer for multiple organizations such as UPSA or SPEGC.
 - 🌱 Currently deepening my knowledge of Apache Kafka, and learning about data extraction techniques.
 
 ## 🛠 My tech stack
