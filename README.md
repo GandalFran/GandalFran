@@ -1,6 +1,6 @@
 # Hey there! I'm Fran
 
-I am Fran, a 24 year old computer science graduate. My interests include the development of Backend, Data Science and Big Data among
+I am Fran, a 24 year old computer science graduate. My interests include the development of Backend, Big Data and Code Generation among
 others.
 
 My coding musts are coffe and:
@@ -10,8 +10,8 @@ My coding musts are coffe and:
 
 ## 🧙🏻‍♂️ About Me
 - 📚 Studying a computer science PhD at the University of Salamanca.
-- 💼 Working as researcher in the area of Big Data, and Fullstack developer at BISITE research group. And as a Lecturer for multiple organizations such as UPSA or SPEGC.
-- 🌱 Currently deepening my knowledge of Apache Kafka, and learning about data extraction techniques.
+- 💼 Working as Telefónica Partner Engineer at BCNC Group, and as freelance lecturer.
+- 🌱 Currently deepening my knowledge of API Design, and learning about data extraction techniques.
 
 ## 🛠 My tech stack
 - 🌐: <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /><img src="https://img.shields.io/badge/vuetify-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -53,6 +53,6 @@ Based on a web application developed with MEVN stack, together with a Python, Ce
  <a href="https://github.com/GandalFran/GandalFran/raw/master/resume.pdf"> 📄⬇ Download my resume  </a>
  </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/franpintosantos/?locale=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/franpintosantos/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:franpintosantos@usal.es"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
