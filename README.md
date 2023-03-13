@@ -1,7 +1,6 @@
 # Hey there! I'm Fran
 
-I am Fran, a 24 year old computer science graduate. My interests include the development of Backend, Big Data and Code Generation among
-others.
+I am Fran, a 24-year-old software engineer. My interests include the design of APIs and microservices architectures, and the development of backend, big data and code generation among others.
 
 My coding musts are coffe and:
 
