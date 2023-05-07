@@ -1,4 +1,4 @@
-# Hey there! I'm Fran
+# Hey there! I'm Fran <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" />
 
 I am Fran, a 24-year-old software engineer. My interests include the design of APIs and microservices architectures, and the development of backend, big data and code generation among others.
 
@@ -16,7 +16,7 @@ My coding musts are :coffee: and:
 
 I know this is a spagethi mix of technologies, but I manage each one of the posted here at a intermediate/advanced level :raised_hands:.
 
-- <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /><img src="https://img.shields.io/badge/vuetify-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white">
+- <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /><img src="https://img.shields.io/badge/vuetify-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white" />
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
 - <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 - <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Celery-%2337814A.svg?&style=for-the-badge&logo=Celery&logoColor=white"/><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -50,10 +50,8 @@ Based on a web application developed with MEVN stack, together with a Python, Ce
 </p>
 
 ## 🚀 Some stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gandalfran&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandalfran&layout=compact&hide=Ada,Makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=gandalfran)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=gandalfran&bg_color=ffffff&title_color=000000&line=000000&point=000000&color=000000&hide_title=true)
 
 
 ## 📫 How to contact me
@@ -62,5 +60,5 @@ Based on a web application developed with MEVN stack, together with a Python, Ce
  </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/franpintosantos/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:franpintosantos@usal.es"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:franpintosantos@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
