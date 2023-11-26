@@ -49,11 +49,6 @@ Based on a web application developed with MEVN stack, together with a Python, Ce
   <img src="https://github.com/GandalFran/GandalFran/raw/master/deeptrends_topic_architecture.svg">
 </p>
 
-## 🚀 Some stats
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=gandalfran&bg_color=ffffff&title_color=000000&line=000000&point=000000&color=000000&hide_title=true)
-
-
 ## 📫 How to contact me
 <p align="center">
  <a href="https://github.com/GandalFran/GandalFran/raw/master/resume.pdf"> 📄⬇ Download my resume  </a>
