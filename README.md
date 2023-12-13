@@ -9,7 +9,7 @@ My coding musts are :coffee: and:
 
 ## 🧙🏻‍♂️ About Me
 - 📚 Studying a computer science PhD at the University of Salamanca.
-- 💼 Working as Partner Engineer at Telefónica I+D.
+- 💼 Working as Partner Engineer at Kernel on Telefónica Innovación Digital.
 - 🌱 Currently deepening my knowledge of API Design and big data architectures.
 
 ## 🛠 My tech stack(s)
