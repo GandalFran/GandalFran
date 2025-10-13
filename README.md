@@ -1,4 +1,4 @@
-# Hey there! I'm Fran <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" />
+# Hey there! I'm Fran
 
 I am Fran, a 27-year-old software engineer. My interests include the design of APIs and microservices architectures, and the backend development.
 
