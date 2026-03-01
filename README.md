@@ -2,9 +2,7 @@
 
 I am Fran, a 27-year-old software engineer. My interests include the design of APIs and microservices architectures, and the backend development.
 
-My coding musts are :coffee: and: 
-
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+My coding musts are :coffee: and: [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
 
 
 ## 🧙🏻‍♂️ About Me
@@ -52,6 +50,6 @@ Based on a web application developed with MEVN stack, together with a Python, Ce
  <a href="https://github.com/GandalFran/GandalFran/raw/master/resume.pdf"> 📄⬇ Download my resume  </a>
  </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/franpintosantos/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:franpintosantos@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/franpintosantos/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+<a href="mailto:franpintosantos@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 
