@@ -8,9 +8,9 @@ My coding musts are :coffee: and:
 
 
 ## 🧙🏻‍♂️ About Me
-- 📚 Studying a computer science PhD at the University of Salamanca.
-- 💼 Working as Partner Engineer at Telefónica Kernel.
-- 🌱 Currently deepening my knowledge of API Design and big data architectures.
+- 📚 Computer science PhD candidate at the USAL.
+- 💼 Working as Identity Engineer at Telefónica.
+- 🌱 Currently learning about IAM systems and k8s.
 
 <!-- comment 
 ## 🛠 My tech stack(s)
