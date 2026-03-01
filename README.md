@@ -8,7 +8,7 @@ My coding musts are :coffee: and:
 
 
 ## 🧙🏻‍♂️ About Me
-- 📚 Computer science PhD candidate at the USAL.
+- 📚 CS & AI PhD candidate at the USAL.
 - 💼 Working as Identity Engineer at Telefónica.
 - 🌱 Currently learning about IAM systems and k8s.
 
