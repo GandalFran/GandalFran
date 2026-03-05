@@ -8,7 +8,7 @@ My coding musts are :coffee: and: [![Visual Studio Code](https://custom-icon-bad
 ## 🧙🏻‍♂️ About Me
 - 📚 CS & AI PhD candidate at the USAL.
 - 💼 Working as Identity Engineer at Telefónica.
-- 🌱 Currently learning about IAM systems and k8s.
+- 🌱 Currently learning about operation of AI agents and their support tools.
 
 <!-- comment 
 ## 🛠 My tech stack(s)
