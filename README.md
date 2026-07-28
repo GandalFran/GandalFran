@@ -1,12 +1,12 @@
 # Hey there! I'm Fran
 
-I am Fran, a 27-year-old software engineer. My interests include the design of APIs and microservices architectures, and the backend development.
+I am Fran, a 28-year-old software engineer. My interests include the design of APIs and microservices architectures, and the backend development.
 
 My coding musts are :coffee: and: [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
 
 
 ## 🧙🏻‍♂️ About Me
-- 📚 CS & AI PhD candidate at the USAL.
+- 📚 CS & AI PhD from USAL.
 - 💼 Working as Identity Engineer at Telefónica.
 - 🌱 Currently learning about operation of AI agents and their support tools.
 
