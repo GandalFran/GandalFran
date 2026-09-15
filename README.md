@@ -7,7 +7,7 @@ My coding musts are :coffee: and: [![Visual Studio Code](https://custom-icon-bad
 
 ## 🧙🏻‍♂️ About Me
 - 📚 CS & AI PhD from USAL.
-- 💼 Working as Identity Engineer at Telefónica.
+- 💼 Working as Software Engineer on Backend & Distributed Systems at Telefónica.
 - 🌱 Currently learning about operation of AI agents and their support tools.
 
 <!-- comment 
